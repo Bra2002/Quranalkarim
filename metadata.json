@@ -1,0 +1,7 @@
+{
+  "name": "Copy of القرآن الكريم - Al-Quran Al-Kareem",
+  "description": "تطبيق متكامل لتلاوة وقراءة القرآن الكريم مع ميزة التفسير الذكي وتعدد القراء ومواقيت الصلاة.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
